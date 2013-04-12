@@ -1,0 +1,53 @@
+ASD 1304
+Anthony Torrez
+
+Project Story for Wine App (Still thinking of a good name for this app)
+
+Currently I plan on the app to consist of a Home Page, a Red Wine Collection page, a White Wine Collection page,
+a Futures page, and hopefully, a How to Wine Taste video page (not sure about this one at this time but why not?)
+
+Home page:
+
+Picture (logo?) with brief description and 4 buttons (Red Wine, White Wine, Futures, Video(?))
+	1) Red Wine button will take you to the Red Wine page.  
+	2) White Wine button will take you to the White Wine page.
+	3) Futures button will take you to the Futures input page.
+	4) Video button will take you a video of How to Taste Wine (if I can find one on YouTube and add it in)
+	[i] will take you information about the app - not sure if this will be a separate page or just display on the screen
+	
+Red Wine button will take you to the Red Wine Collection page.  
+	Home in Banner will take you back to the Home page.
+	1) Input for name of Winery
+	2) Input for the variety of wine
+	3) Input for Vintage (year of the wine)
+	4) Notes - just a place to enter what you think of the wine, perhaps vintner's notes, maybe what food to pair it with, etc.
+	5) Display button - to display all the bottles in Red Wine Collection
+	6) Futures button - to take you to the Futures page
+	7) Submit button - to add a wine (Inputs 1 - 4) to the collection.
+	[i] will take you information about the app - not sure if this will be a separate page or just display on the screen
+
+Wine Wine button will take you to the White Wine Collection page.  
+	Home in Banner will take you back to the Home page.
+	1) Input for name of Winery
+	2) Input for the variety of wine
+	3) Input for Vintage (year of the wine)
+	4) Notes - just a place to enter what you think of the wine, perhaps vintner's notes, maybe what food to pair it with, etc.
+	5) Display button - to display all the bottles in White Wine Collection
+	6) Futures button - to take you to the Futures page
+	7) Submit button - to add a wine (Inputs 1 - 4) to the collection.
+	[i] will take you information about the app - not sure if this will be a separate page or just display on the screen
+	
+Futures button will take you to the Futures page.
+	Home in Banner will take you back to the Home page.
+	1) Input for the name of the winery
+	2) Input the year of the Futures
+	3) Input the variety of the wine future
+	4) Bottles (this will be used to input the number of bottles you are buying per case)
+	5) Input the variety of the wine future (this will only be used if you are buying a mixed case)
+	6) Bottles (this will be used to input the number of bottles (only if you are buying a mixed case)
+		[Notes: the wine futures I've bought give you the opportunity to purchase a case - 1/2 one variety, 1/2 a second variety - 12 bottles to case]
+	[i] will take you information about the app - not sure if this will be a separate page or just display on the screen
+	
+Video page button will take you to a YouTube video with a How-to video of wine tasting.
+	Home in Banner will take you back to the Home page.
+	[i] will take you information about the app - not sure if this will be a separate page or just display on the screen
